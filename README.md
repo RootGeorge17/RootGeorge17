@@ -2,6 +2,10 @@
 
 - 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
+- 💻 You can find me on:
+- - Linkedin: https://www.linkedin.com/in/georgesopov/
+- - CodeWars: https://www.codewars.com/users/RootGeorge17
+- - LeetCode: https://leetcode.com/RootGeorge/
 
 <h3 align="left">Languages</h3>
 <p align="left" style="display: flex; flex-direction: row">
