@@ -1,6 +1,5 @@
 ### Hi there 👋👋👋👋
 
-- 
 - 👀 I’m interested in Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
 
@@ -23,5 +22,15 @@
       height="40"
     />
   </a>
+</p>
+
+<h3 align="left">Frameworks/Libaries</h3>
+<p align="left" style="display: flex; flex-direction: row">
+
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left" style="display: flex; flex-direction: row">
+
 </p>
 
