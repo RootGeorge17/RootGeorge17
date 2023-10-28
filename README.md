@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<h3 align="left">Frameworks/Libaries</h3>
+<h3 align="left">Frameworks / Libraries</h3>
 <p align="left" style="display: flex; flex-direction: row">
       <a>
     <img
