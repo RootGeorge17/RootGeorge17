@@ -37,10 +37,26 @@
       height="40"
     />
   </a>
+    <a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="MYSQL"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Frameworks/Libaries</h3>
 <p align="left" style="display: flex; flex-direction: row">
+      <a>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="LARAVEL"
+      width="40"
+      height="40"
+    />
+  </a>
 
 </p>
 
