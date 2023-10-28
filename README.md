@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋
 
-- 👀 I’m interested in Web Development, Artificial Intelligence and Dev Ops.
+- 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
 
 <h3 align="left">Languages</h3>
