@@ -35,6 +35,6 @@
 </div>
 
 <div style="display: inline-block; align-items: center;">
-  <h2>🏦 Tools</h2>
+  <h2>✏️ Tools</h2>
   <img alt="Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />ㅤ
 </div>
