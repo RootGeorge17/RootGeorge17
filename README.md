@@ -3,12 +3,12 @@
 - 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
 - 💻 You can contact & find more about me on:
-<div style="text-decoration: none;"> 
-  <a href="mailto:g.sopov@edu.salford.ac.uk">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<div style="text-decoration: none"> 
+  <a href="mailto:g.sopov@edu.salford.ac.uk" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>ㅤ
   <a href="https://www.linkedin.com/in/georgesopov/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>ㅤ
 </div>
 
