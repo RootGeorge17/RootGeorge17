@@ -12,9 +12,13 @@
   </a>ㅤ
 </div>
 
-Here are some private projects you can have a look at:
-<a href="http://hc23-17.poseidon.salford.ac.uk" target="_blank">BCS Placement Finder (Matching students with companies based on skills and proficiencies)</a>
-<a href="http://sgc017.poseidon.salford.ac.uk/)" target="_blank">ParcelPal (CRUD Parcel Management System for a delivery company)</a>
+<p>Here are some private projects you can have a look at:</p>
+<li>
+  <a href="http://hc23-17.poseidon.salford.ac.uk" target="_blank">BCS Placement Finder (Matching students with companies based on skills and proficiencies)</a>
+</li>
+<li>
+  <a href="http://sgc017.poseidon.salford.ac.uk/)" target="_blank">ParcelPal (CRUD Parcel Management System for a delivery company)</a>
+</li>
 
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
