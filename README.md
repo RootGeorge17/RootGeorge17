@@ -3,22 +3,16 @@
 - 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
 - 💻 You can contact & find more about me on:
-<div style="text-decoration: none"> 
-  <a href="mailto:g.sopov@edu.salford.ac.uk" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>ㅤ
-  <a href="https://www.linkedin.com/in/georgesopov/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>ㅤ
-</div>
 
-<p>Here are some private projects you can have a look at:</p>
-<li>
-  <a href="http://hc23-17.poseidon.salford.ac.uk" target="_blank">BCS Placement Finder (Matching students with companies based on skills and proficiencies)</a>
-</li>
-<li>
-  <a href="http://sgc017.poseidon.salford.ac.uk/)" target="_blank">ParcelPal (CRUD Parcel Management System for a delivery company)</a>
-</li>
+Here are some of my private projects that you can explore:
+
+## BCS Placement Finder
+[![BCS Placement Finder](http://hc23-17.poseidon.salford.ac.uk)](http://hc23-17.poseidon.salford.ac.uk)
+
+The BCS Placement Finder is designed to match students with companies based on their skills and proficiencies.
+
+## ParcelPal
+[![ParcelPal](http://sgc017.poseidon.salford.ac.uk/)](http://sgc017.poseidon.salford.ac.uk/)
 
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
