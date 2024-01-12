@@ -4,15 +4,13 @@
 - 🌱 I'm currently in my second year of University.
 - 💻 You can contact & find more about me on:
 
-Here are some of my private projects that you can explore:
+Explore some of my private projects:
 
-## BCS Placement Finder
-[![BCS Placement Finder](http://hc23-17.poseidon.salford.ac.uk)](http://hc23-17.poseidon.salford.ac.uk)
+- [**BCS Placement Finder**](http://hc23-17.poseidon.salford.ac.uk)
+  - Matching students with companies based on skills and proficiencies.
 
-The BCS Placement Finder is designed to match students with companies based on their skills and proficiencies.
-
-## ParcelPal
-[![ParcelPal](http://sgc017.poseidon.salford.ac.uk/)](http://sgc017.poseidon.salford.ac.uk/)
+- [**ParcelPal**](http://sgc017.poseidon.salford.ac.uk/)
+  - CRUD Parcel Management System for a delivery company.
 
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
