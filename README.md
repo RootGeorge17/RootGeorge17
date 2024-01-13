@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
 - 🌱 I'm currently in my second year of University.
-- 💻 You can contact & find more about me on:
 
 Explore some of my private projects:
 
