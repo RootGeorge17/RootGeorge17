@@ -16,7 +16,6 @@ Explore some of my private projects:
   <img alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">ㅤ
   <img alt="JS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
-  <img alt="Csharp" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
   <img alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤㅤ
 </div>
