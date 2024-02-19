@@ -1,6 +1,6 @@
 ### Hi there 👋👋👋👋
 
-- 👀 I’m interested in Software Development, Web Development, Artificial Intelligence and Dev Ops.
+- 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I'm currently in my second year of University.
 - 💻 Here is my portfolio website, where you can find out more about me and my projects: [**My Website**](https://rootgeorge17.github.io/portofolio-website/)
 
