@@ -16,7 +16,7 @@ Explore all of my projects on my website: [**My Website**](https://rootgeorge17.
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
   <img alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="PHP" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.sv">ㅤ
+  <img alt="PHP" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">ㅤ
   <img alt="JS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
   <img alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
   <img alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤㅤ
