@@ -11,8 +11,6 @@ Explore all of my projects on my website: [**My Website**](https://rootgeorge17.
 - [**ParcelPal**](http://sgc017.poseidon.salford.ac.uk/)
   - CRUD Parcel Management System for a delivery company.
  
-![](https://komarev.com/ghpvc/?username=RootGeorge17)
-
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
   <img alt="Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
