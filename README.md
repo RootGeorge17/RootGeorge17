@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I'm currently in my second year of University.
 
-Explore all of my projects on my website: [**My Website**](https://rootgeorge17.github.io/portofolio-website/). Here's some of my private projects:
+Explore all of my projects on my website: [**My Website**](https://rootgeorge17.github.io/portofolio-website/). Some include:
 
 - [**BCS Placement Finder**](http://hc23-17.poseidon.salford.ac.uk)
   - Matching students with companies based on skills and proficiencies.
