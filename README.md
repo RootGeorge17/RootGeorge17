@@ -5,8 +5,8 @@
 <img width="43%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently contributing to cool stuff as a Software Engineer at DAI
-- 🗿  Neovim and Linux Enjoyer 
 - 👨🏽‍💻 Love building websites and learning about Machine Learning
+- 🗿  Neovim and Linux Enjoyer 
 - 🎨 Portfolio: [**rootgeorge.co.uk**](https://rootgeorge17.github.io/portofolio-website/)
 
 ## Some Projects
