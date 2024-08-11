@@ -4,9 +4,10 @@
 
 <img width="40%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Currently contributing to cool stuff as a Software Engineer at Dematic (DAI)
-- 🗿 Neovim and Linux Enjoyer 
-- 👨🏽‍💻 Love building websites and learning more about Machine Learning
+- 🌱 Currently contributing to cool stuff as a Software Engineer at DAI
+- 🗿  Neovim and Linux Enjoyer 
+- 👨🏽‍💻 Love building websites and learning about Machine Learning
+- 🎨 Portfolio: https://rootgeorge.co.uk
 
 ## Some Projects
 
