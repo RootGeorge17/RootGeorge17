@@ -43,7 +43,7 @@ Explore all of my projects on my website: [**My Website**](https://rootgeorge17.
   <img alt="Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />ㅤ
 </div>
 
-<h3 align="left">Stats and Contributions:</h3>
+## Stats and Contributions
 
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
