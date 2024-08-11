@@ -1,9 +1,15 @@
-### Hi there 👋👋👋👋
+# Hi there, I'm George 👋👋
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👀 I’m interested in Software Development, Web Development and Machine Learning.
-- 🌱 I'm currently in my second year of University.
+## About Me
+
+- 🗿 Neovim and Linux Enjoyer 
+- 👀 Interested in learning new technologies
+- 🦀 Love building websites and learning more about Machine Learning
+- 🌱 Currently in my placement year at university, contributing to cool stuff as a Software Engineer for Dematic (DAI)
+
+## Some Projects
 
 Explore all of my projects on my website: [**My Website**](https://rootgeorge17.github.io/portofolio-website/). Some include:
 
@@ -12,6 +18,8 @@ Explore all of my projects on my website: [**My Website**](https://rootgeorge17.
 
 - [**ParcelPal**](http://sgc017.poseidon.salford.ac.uk/)
   - CRUD Parcel Management System for a delivery company.
+ 
+## Technologies
  
 <div style="display: inline-block; align-items: center;">
   <h2>📖 Languages</h2>
