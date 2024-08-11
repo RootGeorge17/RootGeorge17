@@ -1,5 +1,7 @@
 ### Hi there 👋👋👋👋
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I'm currently in my second year of University.
 
