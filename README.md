@@ -7,7 +7,7 @@
 - 🌱 Currently contributing to cool stuff as a Software Engineer at DAI
 - 🗿  Neovim and Linux Enjoyer 
 - 👨🏽‍💻 Love building websites and learning about Machine Learning
-- 🎨 Portfolio: https://rootgeorge.co.uk
+- 🎨 Portfolio: rootgeorge.co.uk
 
 ## Some Projects
 
