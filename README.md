@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img width="45%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="43%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently contributing to cool stuff as a Software Engineer at DAI
 - 🗿  Neovim and Linux Enjoyer 
