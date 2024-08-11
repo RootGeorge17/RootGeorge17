@@ -1,8 +1,8 @@
 # Hi there, I'm George 👋👋
 
-<img width="45%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 ## About Me
+
+<img width="45%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🗿 Neovim and Linux Enjoyer 
 - 👀 Interested in learning new technologies
