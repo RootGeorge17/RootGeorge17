@@ -9,16 +9,6 @@
 - 🗿   Neovim and Linux Enjoyer 
 - 🎨 Portfolio: [**rootgeorge.co.uk**](https://rootgeorge17.github.io/portofolio-website/)
 
-## Some Projects
-
-Explore all of my projects on my website: [**My Website**](https://rootgeorge17.github.io/portofolio-website/). Some include:
-
-- [**BCS Placement Finder**](http://hc23-17.poseidon.salford.ac.uk)
-  - Matching students with companies based on skills and proficiencies.
-
-- [**ParcelPal**](http://sgc017.poseidon.salford.ac.uk/)
-  - CRUD Parcel Management System for a delivery company.
- 
 ## Technologies
  
 <div style="display: inline-block; align-items: center;">
