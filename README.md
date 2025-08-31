@@ -41,7 +41,7 @@
   <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">ㅤ
   <img alt="MariaDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg">ㅤ
   <img alt="Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">ㅤ
-  <img alt="Postman" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg">ㅤ
+  <img alt="Postman" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">ㅤ
 </div>
 
 ## Stats and Contributions
