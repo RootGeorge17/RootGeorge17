@@ -29,15 +29,19 @@
   <img alt="React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">ㅤㅤ
   <img alt="Zustand" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg">ㅤㅤ
   <img alt="Symfony" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg">ㅤㅤ
-  <img alt="Tailwind" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">ㅤㅤ
+  <img alt="Tailwind" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">ㅤㅤ
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">ㅤ
   <img alt="jQuery" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">ㅤ
 </div>
 
 <div style="display: inline-block; align-items: center;">
   <h2>✏️ Tools</h2>
+  <img alt="AWS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">ㅤ
+  <img alt="Linux" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">ㅤ
   <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">ㅤ
+  <img alt="MariaDB" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg">ㅤ
   <img alt="Git" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">ㅤ
+  <img alt="Postman" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg">ㅤ
 </div>
 
 ## Stats and Contributions
