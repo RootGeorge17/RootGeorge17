@@ -19,6 +19,8 @@
   </samp>
 </p>
 
+<br>
+
 ## About Me
 
 <img width="43%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -65,7 +67,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
-## Stats and Contributions
+## 📊 GitHub Stats & Achievements
 
 Stats             |  Contributions
 :-------------------------:|:-------------------------:
