@@ -26,7 +26,7 @@
 - 🌱 Currently working as a Software Engineer at Dematic
 - 🎯 Passionate about solving real-world problems through code
 - 🗿   Neovim and Linux Enjoyer
-- 💭 Always trying to balance simplicity in life and complexity in code 
+- 💭  Trying to balance simplicity in life and complexity in code 
 <br>
 
 ## Technologies
