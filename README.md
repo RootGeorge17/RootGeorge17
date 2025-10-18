@@ -19,8 +19,6 @@
   </samp>
 </p>
 
-<br>
-
 ## About Me
 
 <img width="43%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -29,7 +27,6 @@
 - 🎯 Passionate about solving real-world problems through code
 - 🗿   Neovim and Linux Enjoyer
 - 💭  Trying to balance simplicity in life and complexity in code 
-<br>
 
 ## Technologies
 
