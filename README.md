@@ -27,7 +27,6 @@
   <h2>📚 Frameworks & Libraries</h2>
   <img alt="Spring" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">ㅤㅤ
   <img alt="React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">ㅤㅤ
-  <img alt="Zustand" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg">ㅤㅤ
   <img alt="Symfony" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg">ㅤㅤ
   <img alt="Tailwind" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">ㅤㅤ
   <img alt="Bootstrap" height="40" width="45" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png">ㅤ
