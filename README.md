@@ -4,19 +4,15 @@
 </h1>
 
 <p align="center"> 
-  <samp>
     「 Software Engineer @ Dematic 」
-  </samp>
 </p>
 
 <p align="center"> 
-  <samp>
     「 
     <a href="https://rootgeorge17.github.io/portofolio-website/" target="_blank">Portfolio</a> 
     | 
     <a href="https://www.linkedin.com/in/georgesopov/" target="_blank">LinkedIn</a> 
     」
-  </samp>
 </p>
 
 ## About Me
@@ -25,8 +21,8 @@
 
 - 🌱 Currently working as a Software Engineer at Dematic
 - 🎯 Passionate about solving real-world problems through code
+- 💭  Trying to balance simplicity in life and complexity in code
 - 🗿   Neovim and Linux Enjoyer
-- 💭  Trying to balance simplicity in life and complexity in code 
 
 ## Technologies
 
