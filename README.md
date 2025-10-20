@@ -17,8 +17,6 @@
 
 ## About Me
 
-<img width="43%" height="100%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🌱 Currently working as a Software Engineer at Dematic
 - 🎯 Passionate about solving real-world problems through code
 - 💭  Trying to balance simplicity in life and complexity in code
