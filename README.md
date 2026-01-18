@@ -9,7 +9,7 @@
 
 <p align="center"> 
     「 
-    <a href="https://rootgeorge17.github.io/portofolio-website/" target="_blank">Portfolio</a> 
+    <a href="https://georgesopov.com" target="_blank">Portfolio</a> 
     | 
     <a href="https://www.linkedin.com/in/georgesopov/" target="_blank">LinkedIn</a> 
     」
